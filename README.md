@@ -17,5 +17,5 @@ Nous devons utiliser une API et React Native pour créer une application portabl
 - Afficher la liste des utilisateurs
 
 ## Captures d'écran
-<img src="readmefile/capture1.png" alt="Capture d'écran 1" width="300">
-<img src="readmefile/capture2.png" alt="Capture d'écran 2" width="300">
+<img src="readmefile/capture1.jpg" alt="Capture d'écran 1" width="300">
+<img src="readmefile/capture2.jpg" alt="Capture d'écran 2" width="300">
