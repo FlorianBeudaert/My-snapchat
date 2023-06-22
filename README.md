@@ -18,5 +18,5 @@ Nous devons utiliser une API et React Native pour créer une application portabl
 
 ## Captures d'écran
 
-![Capture d'écran](readmefile/capture1.png)
-![Capture d'écran](readmefile/capture2.png)
+![Capture d'écran](readmefile/capture1.jpg)
+![Capture d'écran](readmefile/capture2.jpg)
